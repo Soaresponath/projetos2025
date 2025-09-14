@@ -5,7 +5,7 @@ int main(){
     int b = 3;
     float quociente = (float) a / b;
 
-    printf("Quocientedo: %2.f\n", quociente);
+    printf("Quociente: %2.f\n", quociente);
 
 
     return 0;

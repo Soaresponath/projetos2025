@@ -9,9 +9,9 @@ int produto = a * b;
 int quociente = a / b;
 
 printf("Soma: %d\n", soma);
-printf("Diferença: %d\n", diferança);
+printf("Diferença: %d\n", diferença);
 printf("Produto: %d\n", produto);
-printf("Quociente: %d\n", quaociente);
+printf("Quociente: %d\n", quociente);
 
 
 

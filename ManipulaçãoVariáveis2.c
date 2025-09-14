@@ -9,9 +9,9 @@ float produto = x * y;
 float quociente = x / y;
 
 printf("Soma: %.2f\n", soma);
-printf("Diferença: %.2f\n", diferança);
+printf("Diferença: %.2f\n", diferença);
 printf("Produto: %.2f\n", produto);
-printf("Quociente: %.2f\n", quaociente);
+printf("Quociente: %.2f\n", quociente);
 
 
 
