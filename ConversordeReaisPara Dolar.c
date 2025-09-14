@@ -14,7 +14,6 @@ int main() {
     printf("Valor em doláres: %.2f\n", dolares);
 
     
-
     return 0;
 
 }
